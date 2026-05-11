@@ -38,7 +38,7 @@ Present insights through clear and interactive visualizations
 
 <br>
 
-## <ins> Project Workflow </ins>
+## <img src="https://cdn.simpleicons.org/git/7C3AED" width="18"/> <ins> | Project Workflow </ins>
 
 The project follows a complete end-to-end data analytics workflow, transforming raw personality data into meaningful insights and predictive intelligence.
 
