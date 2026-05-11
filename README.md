@@ -1,5 +1,8 @@
 # <ins> 🪄 |  Hogwarts Sorting Hat </ins>
 
+<img width="474" height="231" alt="55332924a272884873bbeaa271ba523f" src="https://github.com/user-attachments/assets/897d2698-584a-4d65-a71e-dd24d34c0616" />
+
+
 <i> “What if the Sorting Hat used data instead of magic?” </i>
 
 ## <ins> Overview </ins>
@@ -16,3 +19,7 @@ Develop a machine learning model to predict Hogwarts houses
 Present insights through clear and interactive visualizations
 
 ## <ins> Tools & Technologies </ins>
+Python – Data preprocessing, analysis, and model development
+SQL – Data querying and aggregation
+Power BI – Data visualization and dashboard creation
+
