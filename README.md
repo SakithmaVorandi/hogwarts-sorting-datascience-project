@@ -1,6 +1,10 @@
   <img width="974" height="241" alt="55332924a272884873bbeaa271ba523f" src="https://github.com/user-attachments/assets/897d2698-584a-4d65-a71e-dd24d34c0616" />
 
 
+<h1 align="left">
+  <img src="https://github.com/user-attachments/assets/41a2fa3d-0a82-4578-b075-7513d3b483cf" width="32"/>
+  Hogwarts Sorting Hat
+</h1> 
 
 # <img width="54" height="54" alt="784b1ac7733b80fa2c0c596bf33e3f44" src="https://github.com/user-attachments/assets/41a2fa3d-0a82-4578-b075-7513d3b483cf" /> <ins>  |  Hogwarts Sorting Hat </ins>
 
