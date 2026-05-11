@@ -14,13 +14,13 @@ nspired by the Hogwarts Sorting Hat, this project explores how data science and 
 The project demonstrates a complete end-to-end analytics workflow, including data understanding, cleaning, exploratory analysis, SQL-based querying, predictive modeling, and interactive visualization. By combining storytelling with analytical techniques, the project transforms a fictional concept into an engaging data science experience while showcasing practical skills in Python, SQL, machine learning, and Power BI.
 
 
-## <ins > Objectives </ins>
+## <img src="https://cdn.simpleicons.org/target/7C3AED" width="18"/> | <ins > Objectives </ins>
 Analyze the relationship between personality traits and house assignments
 Identify key factors influencing classification outcomes
 Develop a machine learning model to predict Hogwarts houses
 Present insights through clear and interactive visualizations
 
-## <ins> Tools & Technologies </ins>
+## <img src="https://cdn.simpleicons.org/toolbox/7C3AED" width="18"/> | <ins> Tools & Technologies </ins>
 Python – Data preprocessing, analysis, and model development
 SQL – Data querying and aggregation
 Power BI – Data visualization and dashboard creation
