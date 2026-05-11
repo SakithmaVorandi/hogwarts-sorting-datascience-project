@@ -8,7 +8,7 @@
 
 <i> “What if the Sorting Hat used data instead of magic?” </i>
 
-(https://img.shields.io/badge/Project%20Overview-7C3AED?style=flat-square&logo=bookstack&logoColor=white) ## | <ins> Overview </ins>
+![Project Overview](https://img.shields.io/badge/Project%20Overview-7C3AED?style=flat-square&logo=bookstack&logoColor=white) ## | <ins> Overview </ins>
 
 nspired by the Hogwarts Sorting Hat, this project explores how data science and machine learning can be used to analyze personality traits and predict house classifications through a data-driven approach. Using attributes such as bravery, intelligence, loyalty, ambition, and blood status, the project investigates how different characteristics influence sorting outcomes across Hogwarts houses.
 
