@@ -37,3 +37,31 @@ Present insights through clear and interactive visualizations
  - Power BI – Data visualization and dashboard creation
 
 <br>
+
+## <ins> Project Workflow </ins>
+
+The project follows a complete end-to-end data analytics workflow, transforming raw personality data into meaningful insights and predictive intelligence.
+
+ #### 1. Data Understanding
+
+   The dataset was explored to understand its structure, feature distributions, data types, and overall quality before analysis.
+
+#### 2. Data Cleaning & Preparation
+
+Missing values, duplicates, and formatting inconsistencies were identified and handled to ensure reliable analysis and model performance.
+
+3. Exploratory Data Analysis (EDA)
+
+Personality traits and house distributions were analyzed using statistical summaries and visualizations to uncover hidden patterns and relationships.
+
+4. SQL-Based Analysis
+
+Structured SQL queries were used to perform aggregations, filtering, and comparative analysis across Hogwarts houses and personality traits.
+
+5. Machine Learning Modeling
+
+Classification algorithms were applied to predict Hogwarts house assignments based on personality characteristics.
+
+6. Data Visualization
+
+Interactive dashboards and visual reports were created to communicate findings clearly and effectively.
