@@ -56,12 +56,12 @@ The project follows a complete end-to-end data analytics workflow, transforming 
 
 #### 4. SQL-Based Analysis
 
-Structured SQL queries were used to perform aggregations, filtering, and comparative analysis across Hogwarts houses and personality traits.
+- Structured SQL queries were used to perform aggregations, filtering, and comparative analysis across Hogwarts houses and personality traits.
 
 #### 5. Machine Learning Modeling
 
-Classification algorithms were applied to predict Hogwarts house assignments based on personality characteristics.
+- Classification algorithms were applied to predict Hogwarts house assignments based on personality characteristics.
 
 #### 6. Data Visualization
 
-Interactive dashboards and visual reports were created to communicate findings clearly and effectively.
+- Interactive dashboards and visual reports were created to communicate findings clearly and effectively.
