@@ -67,8 +67,8 @@ The project follows a complete end-to-end data analytics workflow, transforming 
 - Interactive dashboards and visual reports were created to communicate findings clearly and effectively.
 
   <br>
-
-  ## <img src="https://cdn.simpleicons.org/googleanalytics/7C3AED" width="18"/>  <ins> | Dashboard </ins>
+  
+ ## <img src="https://cdn.simpleicons.org/googleanalytics/7C3AED" width="18"/>  <ins> | Dashboards </ins>
 
  ## <img src="https://cdn.simpleicons.org/databricks/7C3AED" width="18"/> <ins> | Insights </ins>
 
