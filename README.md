@@ -38,7 +38,7 @@ Present insights through clear and interactive visualizations
 
 <br>
 
-## <img src="https://cdn.simpleicons.org/git/7C3AED" width="18"/> <ins> | Project Workflow </ins>
+## <img src="https://cdn.simpleicons.org/gear/7C3AED" width="18"/> <ins> | Project Workflow </ins>
 
 The project follows a complete end-to-end data analytics workflow, transforming raw personality data into meaningful insights and predictive intelligence.
 
@@ -65,3 +65,15 @@ The project follows a complete end-to-end data analytics workflow, transforming 
 #### 6. Data Visualization
 
 - Interactive dashboards and visual reports were created to communicate findings clearly and effectively.
+
+  <br>
+
+  ## <img src="https://cdn.simpleicons.org/googleanalytics/7C3AED" width="18"/>  <ins> | Dashboard </ins>
+
+  <img src="https://cdn.simpleicons.org/databricks/7C3AED" width="18"/> Insights
+
+<img src="https://cdn.simpleicons.org/checkmarx/7C3AED" width="18"/> Results
+
+<img src="https://cdn.simpleicons.org/futurelearn/7C3AED" width="18"/> Future Improvements
+
+  
