@@ -14,3 +14,5 @@ Analyze the relationship between personality traits and house assignments
 Identify key factors influencing classification outcomes
 Develop a machine learning model to predict Hogwarts houses
 Present insights through clear and interactive visualizations
+
+## <ins> Tools & Technologies </ins>
