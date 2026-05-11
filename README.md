@@ -2,7 +2,7 @@
 
 
 
-# <ins> <img width="54" height="54" alt="784b1ac7733b80fa2c0c596bf33e3f44" src="https://github.com/user-attachments/assets/41a2fa3d-0a82-4578-b075-7513d3b483cf" /> |  Hogwarts Sorting Hat </ins>
+# <img width="54" height="54" alt="784b1ac7733b80fa2c0c596bf33e3f44" src="https://github.com/user-attachments/assets/41a2fa3d-0a82-4578-b075-7513d3b483cf" /> <ins>  |  Hogwarts Sorting Hat </ins>
 
 
 
@@ -27,7 +27,7 @@ Present insights through clear and interactive visualizations
 
 <br>
 
-## <img src="https://cdn.simpleicons.org/github/7C3AED" width="18"/>  | <ins> Tools & Technologies </ins>
+## <img src="https://cdn.simpleicons.org/git/7C3AED" width="18"/>   | <ins> Tools & Technologies </ins>
  - Python – Data preprocessing, analysis, and model development
  - SQL – Data querying and aggregation
  - Power BI – Data visualization and dashboard creation
